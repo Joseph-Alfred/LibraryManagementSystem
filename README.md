@@ -18,5 +18,9 @@ Inventory(BookManagement),
 PatronManagement,
 LendingProcess
 
+![Image Alt](https://github.com/Joseph-Alfred/LibraryManagementSystem/blob/04572e350be97bf094189590b0afa0f84474d854/Image1.png)
+![Image Alt](https://github.com/Joseph-Alfred/LibraryManagementSystem/blob/04572e350be97bf094189590b0afa0f84474d854/Image2.png)
+![Image Alt](https://github.com/Joseph-Alfred/LibraryManagementSystem/blob/04572e350be97bf094189590b0afa0f84474d854/Image3.png)
 
+ ![Image Alt](https://github.com/Joseph-Alfred/LibraryManagementSystem/blob/04572e350be97bf094189590b0afa0f84474d854/LMS_LLD.excalidraw)
 
